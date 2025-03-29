@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julia Estefhane</h1>
-<h3 align="center">A student passionate about programming and IT</h3>
+<h3 align="center">A student passionate about math, programming and Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estefhanecruz&label=Profile%20views&color=0e75b6&style=flat" alt="estefhanecruz" /> </p>
 
