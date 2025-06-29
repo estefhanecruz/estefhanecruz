@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estefhanecruz&label=Profile%20views&color=0e75b6&style=flat" alt="estefhanecruz" /> </p>
 
-- 🌱 I’m currently learning **Algorithms, programming logic, data structures, relational algebra and programming paradigms**
+- 🌱 I’m currently learning **front-end with ReactJs, Algorithms, programming logic, data structures, relational algebra and programming paradigms**
 
 - 📫 How to reach me **estefhanecruz@gmail.com**
 
