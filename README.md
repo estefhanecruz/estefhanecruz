@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **estefhanecruz@gmail.com**
   
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=estefhanecruz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=estefhanecruz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
