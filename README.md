@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **estefhanecruz@gmail.com**
   
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiestefhanecruz=anuraghazra&show_icons=true&theme=transparent)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?estefhanecruz=anuraghazra&show_icons=true&theme=transparent)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
